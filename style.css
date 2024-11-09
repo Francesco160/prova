@@ -1,0 +1,90 @@
+.immagine {
+    width: 1250px;
+    padding-left: 100px;
+
+      
+
+    
+}
+header {
+    display: flex;
+    border-bottom: 1px solid;
+    align-items: center;
+    
+    
+    
+}
+#icone{
+    display: flex;
+    flex-direction: row;
+}
+#icone :first-child{
+    margin-right: 20px;
+}
+#icone :nth-child(3){
+    margin-left: 20px;
+}
+.resume{
+    border: 2px solid;
+    border-width: 1px;
+    border-radius: 45px;
+    font-size: 15px;
+    margin-left: 60px;
+
+    
+}
+#t{
+   padding-left: 30px;
+}
+.following {
+    
+    padding-left: 100px;
+    display: flex;
+    width: 350px;
+    justify-content:space-between;
+    padding-top: 100px;
+    border-bottom: groove;
+}
+.siga {
+    width: 160px;
+    padding-left: 100px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.flex{
+    padding-left: 100px;
+    display: flex;
+    width: 1000px;
+    gap: 20px;
+}
+ #medium{
+    display: flex;
+    justify-content: end;
+    
+     
+    
+    
+}
+#persona{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+   
+   
+}
+h4 {
+    margin: 0;
+    margin-right: 200px;
+}
+#medium i{
+    margin-top: -30px;
+    margin-left: -200px;
+}
+
+#boh p{
+    padding-top: 50px;
+
+
+}
